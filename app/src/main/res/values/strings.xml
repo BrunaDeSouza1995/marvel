@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">marvel</string>
+    <string name="character_full_name">Character full name</string>
+    <string name="search">Search</string>
+    <string name="example_description">Earths Mightiest Heroes joined forces to take on threats that were too big for any one hero to tackle. With a roster that has included Captain America, Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years, the Avengers have come to be regarded as Earths No.</string>
+    <string name="comics">Comics</string>
+    <string name="error_generic_error">Generic error</string>
+    <string name="error_internet_connection_unavailable">Internet connection unavailable</string>
+    <string name="error_invalid_unrecognized_parameter">Unrecognized parameter</string>
+    <string name="error_not_found">Not found</string>
 </resources>

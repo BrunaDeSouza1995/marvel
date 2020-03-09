@@ -1,0 +1,2761 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2020 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2020 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2020 MARVEL</a>",
+  "etag": "a5f70e997bca91950e0cc224d10b3e1cf867e384",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1880,
+    "count": 20,
+    "results": [
+      {
+        "id": 81114,
+        "digitalId": 0,
+        "title": "Legends Of Marvel: Avengers (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-03-03T16:02:20-0500",
+        "isbn": "978-1-302-92195-8",
+        "upc": "",
+        "diamondCode": "DEC190994",
+        "ean": "9781302 921958 51799",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 128,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/81114",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/81114/legends_of_marvel_avengers_trade_paperback?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/28978",
+          "name": "Legends Of Marvel: Avengers (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-03-11T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-01-20T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 17.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/5e597746032c0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/5e597746032c0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81114/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+              "name": "Ron Frenz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+              "name": "Peter David",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom Defalco",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/661",
+              "name": "Patch Zircher",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81114/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81114/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/179949",
+              "name": "cover from LEGENDS OF MARVEL: AVENGERS TPB (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/179950",
+              "name": "story from LEGENDS OF MARVEL: AVENGERS TPB (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81114/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77449,
+        "digitalId": 0,
+        "title": "Avengers (2018) #32",
+        "issueNumber": 32,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-03-04T11:05:10-0500",
+        "isbn": "",
+        "upc": "75960608857703211",
+        "diamondCode": "JAN200914",
+        "ean": "",
+        "issn": "2644-1616",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77449",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77449/avengers_2018_32?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-32/digital-comic/54241?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229",
+          "name": "Avengers (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/84980",
+            "name": "Avengers (2018) #32 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-03-11T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-02-17T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5e5835dd0f2b7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5e5835dd0f2b7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77449/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "name": "Jason Keith",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13540",
+              "name": "Francesco Manna",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "name": "Ed Mcguinness",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+              "name": "Mark Morales",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77449/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010677",
+              "name": "Dracula"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009440",
+              "name": "Mephisto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009466",
+              "name": "Namor"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77449/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171783",
+              "name": "cover from Avengers (2018) #32",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171784",
+              "name": "story from Avengers (2018) #32",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77449/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 88115,
+        "digitalId": 0,
+        "title": "True Believers: Empyre - Quoi (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-03-02T14:18:43-0500",
+        "isbn": "",
+        "upc": "75960609882800111",
+        "diamondCode": "JAN200861",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/88115",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/88115/true_believers_empyre_-_quoi_2020_1?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/True-Believers-Empyre-Quoi-1/digital-comic/55042?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/30466",
+          "name": "True Believers: Empyre - Quoi (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-03-11T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-02-17T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5e5970ba36827",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5e5970ba36827",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88115/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88115/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88115/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/195862",
+              "name": "cover from True Believers: Empyre - Quoi (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/195863",
+              "name": "story from True Believers: Empyre - Quoi (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88115/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 78321,
+        "digitalId": 0,
+        "title": "Marvel Comics 1000 (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-02-24T15:54:20-0500",
+        "isbn": "978-1-302-92137-8",
+        "upc": "",
+        "diamondCode": "SEP190964",
+        "ean": "9781302 921378 52999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 144,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/78321",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/78321/marvel_comics_1000_hardcover?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27933",
+          "name": "Marvel Comics 1000 (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-03-04T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-10-14T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 29.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5e5428019f0e2",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5e5428019f0e2",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78321/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78321/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78321/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/173654",
+              "name": "cover from MARVEL COMICS 1000 HC (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/173655",
+              "name": "story from MARVEL COMICS 1000 HC (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78321/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 71756,
+        "digitalId": 0,
+        "title": "Tarot (2020) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-02-20T15:07:30-0500",
+        "isbn": "",
+        "upc": "75960609151500311",
+        "diamondCode": "DEC190839",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71756",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71756/tarot_2020_3?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Tarot-3/digital-comic/54016?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26155",
+          "name": "Tarot (2020 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/84233",
+            "name": "Tarot (2020) #3 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/84234",
+            "name": "Tarot (2020) #3 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-02-26T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-02-03T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/5e4c35e7c8b6d",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/5e4c35e7c8b6d",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71756/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "name": "Vc Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13282",
+              "name": "Stephane Paitreau",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9233",
+              "name": "Paul Renaud",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71756/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011023",
+              "name": "Defenders"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71756/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159509",
+              "name": "cover from Avengers/Defenders: Tarot (2029) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159510",
+              "name": "story from Avengers/Defenders: Tarot (2029) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71756/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77448,
+        "digitalId": 0,
+        "title": "Avengers (2018) #31",
+        "issueNumber": 31,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-02-20T15:07:31-0500",
+        "isbn": "",
+        "upc": "75960608857703111",
+        "diamondCode": "DEC190928",
+        "ean": "",
+        "issn": "2644-1616",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77448",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77448/avengers_2018_31?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-31/digital-comic/53932?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229",
+          "name": "Avengers (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/84679",
+            "name": "Avengers (2018) #31 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/84112",
+            "name": "Avengers (2018) #31 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-02-26T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-02-03T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/5e4c3617aad62",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/5e4c3617aad62",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77448/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12998",
+              "name": "Oscar Bazaldua",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13413",
+              "name": "Mattia De Iulis",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+              "name": "Rachelle Rosenberg",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8540",
+              "name": "Geraldo Borges",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13110",
+              "name": "Robert Gill",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12480",
+              "name": "Szymon Kudranski",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12809",
+              "name": "Gerardo Zaffino",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77448/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77448/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171781",
+              "name": "cover from Avengers (2018) #31",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171782",
+              "name": "story from Avengers (2018) #31",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77448/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 80591,
+        "digitalId": 0,
+        "title": "Avengers of the Wastelands (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-23T09:04:30-0500",
+        "isbn": "",
+        "upc": "75960609504900111",
+        "diamondCode": "NOV190845",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/80591",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/80591/avengers_of_the_wastelands_2020_1?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-of-the-Wastelands-1/digital-comic/53534?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/28385",
+          "name": "Avengers of the Wastelands (2020)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83575",
+            "name": "Avengers of the Wastelands (2020) #1 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83576",
+            "name": "Avengers of the Wastelands (2020) #1 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-29T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-01-06T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/5e2890f557277",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/5e2890f557277",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/80591/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11482",
+              "name": "Jesus Aburtov",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12313",
+              "name": "Mark Basso",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12699",
+              "name": "Ed Brisson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13675",
+              "name": "Neeraj Menon",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10344",
+              "name": "Juan Jose Ryp",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13879",
+              "name": "Jonas Scharf",
+              "role": "inker"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/80591/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/80591/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/178308",
+              "name": "cover from The Wasteland (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/178309",
+              "name": "story from The Wasteland (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/80591/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77366,
+        "digitalId": 0,
+        "title": "Avengers by Jason Aaron Vol. 5: Challenge Of The Ghost Riders (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-24T15:00:48-0500",
+        "isbn": "978-1-302-92093-7",
+        "upc": "",
+        "diamondCode": "NOV190972",
+        "ean": "9781302 920937 51599",
+        "issn": "2644-1616",
+        "format": "Trade Paperback",
+        "pageCount": 112,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77366",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/77366/avengers_by_jason_aaron_vol_5_challenge_of_the_ghost_riders_trade_paperback?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27718",
+          "name": "Avengers by Jason Aaron Vol. 5: Challenge Of The Ghost Riders (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-29T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-12-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 15.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5e28b321b427e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5e28b321b427e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77366/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+              "name": "Stefano Caselli",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/241",
+              "name": "Dale Keown",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77366/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77366/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171614",
+              "name": "cover from AVENGERS BY JASON AARON VOL. 5 TPB (2020) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171615",
+              "name": "story from AVENGERS BY JASON AARON VOL. 5 TPB (2020) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77366/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 71755,
+        "digitalId": 0,
+        "title": "Tarot (2020) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-23T09:12:40-0500",
+        "isbn": "",
+        "upc": "75960609151500211",
+        "diamondCode": "NOV190848",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71755",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71755/tarot_2020_2?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Tarot-2/digital-comic/53599?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26155",
+          "name": "Tarot (2020 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83586",
+            "name": "Tarot (2020) #2 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83587",
+            "name": "Tarot (2020) #2 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-29T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-01-06T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5e28908b095b2",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5e28908b095b2",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71755/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "name": "Vc Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9233",
+              "name": "Paul Renaud",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71755/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71755/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159507",
+              "name": "cover from Avengers/Defenders: Tarot (2029) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159508",
+              "name": "story from Avengers/Defenders: Tarot (2029) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71755/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 81255,
+        "digitalId": 0,
+        "title": "Acts of Vengeance: Avengers (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-24T11:45:28-0500",
+        "isbn": "978-1-302-92273-3",
+        "upc": "",
+        "diamondCode": "NOV190988",
+        "ean": "9781302 922733 53999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 504,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/81255",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/81255/acts_of_vengeance_avengers_trade_paperback?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29061",
+          "name": "Acts of Vengeance: Avengers (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-29T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-12-09T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5e28b328ac625",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5e28b328ac625",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81255/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81255/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81255/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/180231",
+              "name": "cover from ACTS OF VENGEANCE: AVENGERS TPB (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/180232",
+              "name": "story from ACTS OF VENGEANCE: AVENGERS TPB (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81255/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77447,
+        "digitalId": 0,
+        "title": "Avengers (2018) #30",
+        "issueNumber": 30,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-23T09:04:14-0500",
+        "isbn": "",
+        "upc": "75960608857703011",
+        "diamondCode": "NOV190857",
+        "ean": "",
+        "issn": "2644-1616",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77447",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77447/avengers_2018_30?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-30/digital-comic/53533?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229",
+          "name": "Avengers (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83628",
+            "name": "Avengers (2018) #30 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-29T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-01-06T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5e28911912fc3",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5e28911912fc3",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77447/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13215",
+              "name": "Rain Beredo",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "name": "Jason Keith",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13540",
+              "name": "Francesco Manna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+              "name": "Mark Morales",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "name": "Ed Mcguinness",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1372",
+              "name": "Mico Suayan",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77447/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77447/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171779",
+              "name": "cover from Avengers (2018) #30",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171780",
+              "name": "story from Avengers (2018) #30",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77447/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77446,
+        "digitalId": 0,
+        "title": "Avengers (2018) #29",
+        "issueNumber": 29,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-11-15T09:01:56-0500",
+        "isbn": "",
+        "upc": "75960608857702911",
+        "diamondCode": "NOV190855",
+        "ean": "",
+        "issn": "2644-1616",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77446",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77446/avengers_2018_29?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-29/digital-comic/53532?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229",
+          "name": "Avengers (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83626",
+            "name": "Avengers (2018) #29 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-12-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5e149e103da87",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5e149e103da87",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77446/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "name": "Jason Keith",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "name": "Ed Mcguinness",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+              "name": "Paco Medina",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+              "name": "Mark Morales",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77446/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77446/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171777",
+              "name": "cover from Avengers (2018) #29",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171778",
+              "name": "story from Avengers (2018) #29",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77446/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 84098,
+        "digitalId": 0,
+        "title": "True Believers: The Criminally Insane - Masters Of Evil (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-03T17:48:46-0500",
+        "isbn": "",
+        "upc": "75960609813200111",
+        "diamondCode": "NOV190778",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/84098",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/84098/true_believers_the_criminally_insane_-_masters_of_evil_2020_1?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-THE-CRIMINALLY-INSANE-MASTERS-OF-EVIL-1-1/digital-comic/54479?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29638",
+          "name": "True Believers: The Criminally Insane - Masters Of Evil (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-08T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-12-09T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/5e0e6939de95f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/5e0e6939de95f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84098/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84098/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84098/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185984",
+              "name": "cover from True Believers: Ravencroft - Masters of Evil (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/185985",
+              "name": "story from True Believers: Ravencroft - Masters of Evil (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/84098/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 76058,
+        "digitalId": 0,
+        "title": "New Avengers: Breakout Marvel Select (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-03T16:52:55-0500",
+        "isbn": "978-1-302-91907-8",
+        "upc": "",
+        "diamondCode": "JUL191098",
+        "ean": "9781302 919078 52499",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 160,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/76058",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/76058/new_avengers_breakout_marvel_select_hardcover?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27291",
+          "name": "New Avengers: Breakout Marvel Select (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-08T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-08-19T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 24.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5e0fa339d4597",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5e0fa339d4597",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76058/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+              "name": "David Finch",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76058/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76058/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/168984",
+              "name": "cover from NEW AVENGERS: BREAKOUT MARVEL SELECT HC (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/168985",
+              "name": "story from NEW AVENGERS: BREAKOUT MARVEL SELECT HC (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76058/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 71754,
+        "digitalId": 0,
+        "title": "Tarot (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-12-05T09:07:01-0500",
+        "isbn": "",
+        "upc": "75960609151500111",
+        "diamondCode": "AUG199011",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71754",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71754/tarot_2020_1?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Tarot-1/digital-comic/53598?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26155",
+          "name": "Tarot (2020 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83538",
+            "name": "Tarot (2020) #1 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83537",
+            "name": "Tarot (2020) #1 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-11-24T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5e00d9cc7d892",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5e00d9cc7d892",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71754/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "name": "Vc Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9233",
+              "name": "Paul Renaud",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71754/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011023",
+              "name": "Defenders"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71754/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159505",
+              "name": "cover from Avengers/Defenders: Tarot (2029) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159506",
+              "name": "story from Avengers/Defenders: Tarot (2029) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71754/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 76984,
+        "digitalId": 0,
+        "title": "Incoming (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-12-17T14:43:48-0500",
+        "isbn": "",
+        "upc": "759606095071000111",
+        "diamondCode": "OCT190860",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 96,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/76984",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/76984/incoming_2019_1?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/INCOMING-1-1/digital-comic/53263?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27620",
+          "name": "Incoming (2019)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83290",
+            "name": "Incoming (2019) #1 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83294",
+            "name": "Incoming (2019) #1 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83289",
+            "name": "Incoming (2019) #1 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83293",
+            "name": "Incoming (2019) #1 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83640",
+            "name": "Incoming (2019) #1 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83295",
+            "name": "Incoming (2019) #1 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/82251",
+            "name": "Incoming (2019) #1 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-12-26T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-11-18T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/5df908fde11be",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/5df908fde11be",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 51,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76984/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13081",
+              "name": "Saladin Ahmed",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12699",
+              "name": "Ed Brisson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12712",
+              "name": "Donny Cates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13575",
+              "name": "Eve Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12989",
+              "name": "Jordie Bellaire",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+              "name": "David Curiel",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13250",
+              "name": "Romulo Fajardo Jr.",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13518",
+              "name": "Triona Farrell",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+              "name": "Marte Gracia",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+              "name": "Jim Cheung",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12385",
+              "name": "Carmen Carnero",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13247",
+              "name": "Rafael Fonteriz",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12466",
+              "name": "Jorge Fornes",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+              "name": "Javier Garron",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12981",
+              "name": "Michael Garland",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5933",
+              "name": "Patrick Gleason",
+              "role": "inker (cover)"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76984/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011198",
+              "name": "Agents of Atlas"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010756",
+              "name": "Champions"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011299",
+              "name": "Guardians of the Galaxy"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009378",
+              "name": "Jessica Jones"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 10
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76984/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/170840",
+              "name": "cover from Blackout (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/170841",
+              "name": "story from Blackout (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76984/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77445,
+        "digitalId": 0,
+        "title": "Avengers (2018) #28",
+        "issueNumber": 28,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-09-25T09:02:39-0400",
+        "isbn": "",
+        "upc": "75960608857702811",
+        "diamondCode": "OCT191022",
+        "ean": "",
+        "issn": "2644-1616",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77445",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77445/avengers_2018_28?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-28/digital-comic/53215?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229",
+          "name": "Avengers (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83253",
+            "name": "Avengers (2018) #28 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-12-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-11-18T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/30/5defb2c11c101",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/30/5defb2c11c101",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77445/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13162",
+              "name": "Erick Arciniega",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "name": "Jason Keith",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "name": "Ed Mcguinness",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+              "name": "Mark Morales",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77445/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77445/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171775",
+              "name": "cover from Avengers (2018) #28",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171776",
+              "name": "story from Avengers (2018) #28",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77445/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 83480,
+        "digitalId": 0,
+        "title": "True Believers: Annihilation - Mantis (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-12-13T16:57:11-0500",
+        "isbn": "",
+        "upc": "75960609784500111",
+        "diamondCode": "OCT190889",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/83480",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/83480/true_believers_annihilation_-_mantis_2019_1?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/TRUE-BELIEVERS-ANNIHILATION-MANTIS-1-1/digital-comic/54404?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29514",
+          "name": "True Believers: Annihilation - Mantis (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-12-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-11-18T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/5df408bc851ab",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/5df408bc851ab",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83480/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/104",
+              "name": "Steve Englehart",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+              "name": "Don Heck",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2355",
+              "name": "Morrie Kuramoto",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83480/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83480/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/184734",
+              "name": "cover from True Believers: Annihilation - Mantis (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/184735",
+              "name": "story from True Believers: Annihilation - Mantis (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/83480/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 76708,
+        "digitalId": 0,
+        "title": "Marvel Visionaries: John Romita Jr. (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-12-13T16:19:35-0500",
+        "isbn": "978-1-302-91975-7",
+        "upc": "",
+        "diamondCode": "SEP190977",
+        "ean": "9781302 919757 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 360,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/76708",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/76708/marvel_visionaries_john_romita_jr_trade_paperback?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27535",
+          "name": "Marvel Visionaries: John Romita Jr. (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-12-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-10-28T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5df3fc7f2c5b7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5df3fc7f2c5b7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76708/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13196",
+              "name": "John Romita Jr.",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76708/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76708/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/170288",
+              "name": "cover from MARVEL VISIONARIES: JOHN ROMITA JR. TPB (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/170289",
+              "name": "story from MARVEL VISIONARIES: JOHN ROMITA JR. TPB (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76708/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 76057,
+        "digitalId": 0,
+        "title": "Marvel Strike Force: The Art of the Game (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-12-17T11:05:37-0500",
+        "isbn": "978-1-302-91906-1",
+        "upc": "",
+        "diamondCode": "MAR191006",
+        "ean": "9781302 919061 55000",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 224,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/76057",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/76057/marvel_strike_force_the_art_of_the_game_hardcover?utm_campaign=apiRef&utm_source=4289e5cf5051d5dfce05a8bd487e2f5d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27290",
+          "name": "Marvel Strike Force: The Art of the Game (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-12-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-07-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 50
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/5df3fc71dd214",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/5df3fc71dd214",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76057/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76057/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76057/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/168982",
+              "name": "cover from MARVEL STRIKE FORCE: THE ART OF THE GAME HC (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/168983",
+              "name": "story from MARVEL STRIKE FORCE: THE ART OF THE GAME HC (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76057/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

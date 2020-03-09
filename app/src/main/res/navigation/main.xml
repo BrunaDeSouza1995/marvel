@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/splash_fragment">
+
+    <action
+        android:id="@+id/action_to_splash"
+        app:destination="@id/splash_fragment" />
+
+    <action
+        android:id="@+id/action_to_search"
+        app:destination="@id/search_fragment" />
+
+    <action
+        android:id="@+id/action_to_character"
+        app:destination="@id/character_fragment" />
+
+    <fragment
+        android:id="@+id/splash_fragment"
+        android:name="com.poc.bruna.marvel.feature.splash.SplashFragment"
+        tools:layout="@layout/fragment_splash" />
+
+    <fragment
+        android:id="@+id/search_fragment"
+        android:name="com.poc.bruna.marvel.feature.search.view.SearchFragment"
+        tools:layout="@layout/fragment_search" />
+
+    <fragment
+        android:id="@+id/character_fragment"
+        android:name="com.poc.bruna.marvel.feature.character.view.CharacterFragment"
+        tools:layout="@layout/fragment_character" />
+
+</navigation>
