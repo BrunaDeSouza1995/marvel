@@ -5,7 +5,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
-import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
 import com.poc.bruna.marvel.R
 import com.poc.bruna.marvel.feature.base.business.data.Result
@@ -13,6 +12,7 @@ import com.poc.bruna.marvel.feature.base.view.BaseFragment
 import com.poc.bruna.marvel.feature.search.business.data.CharacterData
 import com.poc.bruna.marvel.feature.search.gateway.SearchViewModel
 import com.poc.bruna.marvel.utils.extensions.loadImage
+import com.poc.bruna.marvel.utils.extensions.onBackPressed
 import kotlinx.android.synthetic.main.fragment_character.*
 
 class CharacterFragment : BaseFragment() {
@@ -37,7 +37,10 @@ class CharacterFragment : BaseFragment() {
 
     private fun setUpViewModel() {
         viewModel.charactersLiveData.observe(viewLifecycleOwner, Observer {
-            if (it is Result.Success) bind(it.data)
+            when (it) {
+                is Result.Success -> bind(it.data)
+                is Result.Error, Result.Loading -> onBackPressed()
+            }
         })
     }
 

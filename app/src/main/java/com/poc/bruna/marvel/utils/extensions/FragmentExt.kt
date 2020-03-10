@@ -10,3 +10,7 @@ fun Fragment.onBackPressed(action: () -> Unit) {
             action()
         }
 }
+
+fun Fragment.onBackPressed() {
+    requireActivity().onBackPressed()
+}
