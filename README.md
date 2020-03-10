@@ -1,5 +1,5 @@
 # marvel
-The Marvel app uses [MARVEL API](http://developer.marvel.com/).
+The Marvel app uses [Marvel Comics API](http://developer.marvel.com/).
 
 ## This project uses:
 * Coroutines
