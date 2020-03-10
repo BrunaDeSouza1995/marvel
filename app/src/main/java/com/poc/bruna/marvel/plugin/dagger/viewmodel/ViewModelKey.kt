@@ -1,4 +1,4 @@
-package br.com.ifood.rider.plugin.dagger.viewmodel
+package com.poc.bruna.marvel.plugin.dagger.viewmodel
 
 import androidx.lifecycle.ViewModel
 import dagger.MapKey

@@ -4,20 +4,21 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.activityViewModels
+import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
 import com.poc.bruna.marvel.R
 import com.poc.bruna.marvel.feature.base.business.data.Result
 import com.poc.bruna.marvel.feature.base.view.BaseFragment
 import com.poc.bruna.marvel.feature.search.business.data.CharacterData
 import com.poc.bruna.marvel.feature.search.gateway.SearchViewModel
-import com.poc.bruna.marvel.utils.extensions.activityViewModelProvider
 import com.poc.bruna.marvel.utils.extensions.loadImage
 import kotlinx.android.synthetic.main.fragment_character.*
 
 class CharacterFragment : BaseFragment() {
 
-    lateinit var viewModel: SearchViewModel
-    lateinit var adapter: ComicsAdapter
+    private val viewModel: SearchViewModel by activityViewModels { viewModelFactory }
+    private val adapter: ComicsAdapter = ComicsAdapter()
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -35,7 +36,6 @@ class CharacterFragment : BaseFragment() {
     }
 
     private fun setUpViewModel() {
-        viewModel = activityViewModelProvider(viewModelFactory)
         viewModel.charactersLiveData.observe(viewLifecycleOwner, Observer {
             if (it is Result.Success) bind(it.data)
         })
@@ -51,7 +51,6 @@ class CharacterFragment : BaseFragment() {
     }
 
     private fun setUpList() {
-        adapter = ComicsAdapter()
         listComics.adapter = adapter
     }
 

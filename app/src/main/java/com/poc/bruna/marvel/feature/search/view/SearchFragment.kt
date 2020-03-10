@@ -5,12 +5,12 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.core.widget.doOnTextChanged
+import androidx.fragment.app.activityViewModels
 import androidx.lifecycle.Observer
 import com.poc.bruna.marvel.R
 import com.poc.bruna.marvel.feature.base.business.data.Result
 import com.poc.bruna.marvel.feature.base.view.BaseFragment
 import com.poc.bruna.marvel.feature.search.gateway.SearchViewModel
-import com.poc.bruna.marvel.utils.extensions.activityViewModelProvider
 import com.poc.bruna.marvel.utils.extensions.hide
 import com.poc.bruna.marvel.utils.extensions.hideKeyboard
 import com.poc.bruna.marvel.utils.extensions.navigate
@@ -20,7 +20,7 @@ import kotlinx.android.synthetic.main.fragment_search.*
 
 class SearchFragment : BaseFragment() {
 
-    private lateinit var viewModel: SearchViewModel
+    private val viewModel: SearchViewModel by activityViewModels { viewModelFactory }
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -38,7 +38,6 @@ class SearchFragment : BaseFragment() {
     }
 
     private fun setUpViewModel() {
-        viewModel = activityViewModelProvider(viewModelFactory)
         viewModel.searchLiveData.observe(viewLifecycleOwner, Observer {
             if (it.getContentIfNotHandled() != null) {
                 when (it.peekContent()) {
