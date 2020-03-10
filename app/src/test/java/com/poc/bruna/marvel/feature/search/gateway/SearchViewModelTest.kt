@@ -1,12 +1,13 @@
 package com.poc.bruna.marvel.feature.search.gateway
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
-import com.poc.bruna.marvel.feature.base.business.interactor.Result
+import com.poc.bruna.marvel.feature.base.business.data.Result
 import com.poc.bruna.marvel.feature.search.business.interactor.SearchRepository
 import com.poc.bruna.marvel.feature.search.business.interactor.SearchUseCase
 import com.poc.bruna.marvel.plugin.model.response.CharacterComicsResponse
 import com.poc.bruna.marvel.plugin.model.response.CharacterResponse
 import com.poc.bruna.marvel.utils.extensions.FileLoaderUtils
+import com.poc.bruna.marvel.utils.extensions.getComicsURI
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.test.TestCoroutineDispatcher
@@ -69,7 +70,7 @@ class SearchViewModelTest {
                 CharacterComicsResponse::class.java,
                 CHARACTERS_COMICS_JSON
             )
-            val url = characterResponse?.data?.results?.first()?.comics!!.collectionURI
+            val url = characterResponse?.getComicsURI().orEmpty()
 
             `when`(mockRepository.getCharacters(name)).thenReturn(characterResponse)
             `when`(mockRepository.getComics(url)).thenReturn(characterComicsResponse)

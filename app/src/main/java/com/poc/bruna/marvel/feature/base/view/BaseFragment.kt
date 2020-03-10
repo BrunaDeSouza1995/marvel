@@ -4,11 +4,8 @@ import android.content.Context
 import android.view.View
 import androidx.annotation.StringRes
 import androidx.fragment.app.Fragment
-import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModelProvider
 import com.google.android.material.snackbar.Snackbar
-import com.poc.bruna.marvel.feature.base.business.interactor.Result
-import com.poc.bruna.marvel.feature.base.gateway.Event
 import dagger.android.support.AndroidSupportInjection
 import javax.inject.Inject
 

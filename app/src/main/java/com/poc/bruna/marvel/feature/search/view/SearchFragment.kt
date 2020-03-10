@@ -7,8 +7,7 @@ import android.view.ViewGroup
 import androidx.core.widget.doOnTextChanged
 import androidx.lifecycle.Observer
 import com.poc.bruna.marvel.R
-import com.poc.bruna.marvel.feature.base.business.interactor.Result
-import com.poc.bruna.marvel.feature.base.gateway.Event
+import com.poc.bruna.marvel.feature.base.business.data.Result
 import com.poc.bruna.marvel.feature.base.view.BaseFragment
 import com.poc.bruna.marvel.feature.search.gateway.SearchViewModel
 import com.poc.bruna.marvel.utils.extensions.activityViewModelProvider
@@ -40,33 +39,26 @@ class SearchFragment : BaseFragment() {
 
     private fun setUpViewModel() {
         viewModel = activityViewModelProvider(viewModelFactory)
-        viewModel.navigateToCharacter.observe(viewLifecycleOwner, Observer {
-            navigateToCharacter(it)
-        })
-        viewModel.errorLiveData.observe(viewLifecycleOwner, Observer {
-            showError(it)
-        })
-        viewModel.charactersLiveData.observe(viewLifecycleOwner, Observer {
-            when (it) {
-                is Result.Loading -> loadingSearch.show()
-                is Result.Success -> loadingSearch.hide()
-                is Result.Error -> loadingSearch.hide()
+        viewModel.searchLiveData.observe(viewLifecycleOwner, Observer {
+            if (it.getContentIfNotHandled() != null) {
+                when (it.peekContent()) {
+                    is Result.Loading -> loadingSearch.show()
+                    is Result.Success -> navigateToCharacter()
+                    is Result.Error -> showError(it.peekContent() as Result.Error)
+                }
             }
-
         })
     }
 
-    private fun showError(event: Event<Result.Error>?) {
-        if (event?.getContentIfNotHandled() != null) {
-            buttonSearch.isEnabled = true
-            showError(event.peekContent().exception.message)
-        }
+    private fun navigateToCharacter() {
+        loadingSearch.hide()
+        navigate(R.id.action_to_character)
     }
 
-    private fun navigateToCharacter(event: Event<Unit>?) {
-        if (event?.getContentIfNotHandled() != null) {
-            navigate(R.id.action_to_character)
-        }
+    private fun showError(error: Result.Error) {
+        loadingSearch.hide()
+        buttonSearch.isEnabled = true
+        showError(error.exception.message)
     }
 
     private fun setUpViews() {

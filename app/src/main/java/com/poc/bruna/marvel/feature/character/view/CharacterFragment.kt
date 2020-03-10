@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.Observer
 import com.poc.bruna.marvel.R
-import com.poc.bruna.marvel.feature.base.business.interactor.Result
+import com.poc.bruna.marvel.feature.base.business.data.Result
 import com.poc.bruna.marvel.feature.base.view.BaseFragment
 import com.poc.bruna.marvel.feature.search.business.data.CharacterData
 import com.poc.bruna.marvel.feature.search.gateway.SearchViewModel
